@@ -1,6 +1,6 @@
-# Truffle + React Simple Storage dApp
+# Drizzle + Truffle + React Simple Storage dApp
 
-dApp built with Solidity Truffle framework and ReactJS library that stores & retrieves a value from an Ethereum Smart Contract
+dApp that stores & retrieves a value from an Ethereum Smart Contract. Built with Solidity Truffle framework and Drizzle React+Redux library 
 
 
 # How to run
